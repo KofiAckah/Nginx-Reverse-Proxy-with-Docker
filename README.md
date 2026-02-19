@@ -32,7 +32,6 @@ Response: "Hello from Docker!"
 ├── nginx.conf             # Nginx reverse proxy configuration
 ├── assets/
 │   └── web1.png          # Application screenshot
-├── assignment.pdf         # Project requirements document
 └── README.md             # Project documentation
 ```
 
@@ -404,19 +403,3 @@ This project demonstrates:
 - Nginx Documentation: https://nginx.org/en/docs/
 - Flask Documentation: https://flask.palletsprojects.com/
 - Repository: https://github.com/KofiAckah/Docker-Sample-Application
-
-## Author
-
-Joel Livingstone Kofi Ackah
-
-## License
-
-This project is for educational purposes as part of a Docker learning assignment.
-
-## Version History
-
-- v1.0 (2026-02-11): Initial implementation with Flask app and Nginx reverse proxy
-  - Flask application containerized
-  - Nginx reverse proxy configured
-  - Docker networking implemented
-  - Documentation completed
